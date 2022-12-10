@@ -1,6 +1,6 @@
-### Hi there 👋 
-----------------------------------
-## My name is Marina Lucero
+## Hi there 👋 
+**************************************
+# My name is Marina Lucero
 
 
 #### Full Stack Python - University Technician in Programming Student - Passionate about technology and continuous learning
