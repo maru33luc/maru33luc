@@ -53,6 +53,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" alt="Visual Studio Badge"></a>
 <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
 
+<br/>
 
 <h2>📊 Github Stats and Activity</h2>
 
@@ -65,6 +66,10 @@
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
+
+
+<!-- espacio -->
+<br/>
 
 ### My Projects ✨:
 
