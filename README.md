@@ -1,10 +1,10 @@
 <h1 align="center">Hi , I'm Marina Lucero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Programming+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=University+Technician+in+Programming;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
-#### Full Stack Python - University Technician in Programming Student - Passionate about technology and continuous learning
+#### Full Stack Web Developer | University Technician in Programming Graduate | Enthusiast of DS, AI, and ML
 
 * _Proactivity and Teamwork_ 👨‍👩‍👧‍👦
 * _Troubleshooting_ 🧐
@@ -40,6 +40,10 @@
 <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
 <a href="#"><img alt="JavaFx" src="https://img.shields.io/badge/JavaFX-5382A1.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white"></a>
+<a href="#"><img alt="Spring" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href="#"><img alt="Spring" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"></a> 
+<a href="#"><img alt="Spring" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>   
+<a href="#"><img alt="Spring" src="https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white"></a>  
 </p>
 
 <h2>💻 Software and Tools</h2>
@@ -73,9 +77,20 @@
 
 ### My Projects ✨:
 
+<a href="https://github.com/maru33luc/FK-Back-MySQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maru33luc&repo=FK-Back-MySQL&theme=tokyonight" />
+</a>
+<a href="https://github.com/maru33luc/FunkoStore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maru33luc&repo=FunkoStore&theme=tokyonight" />
+</a>
+<a href="https://github.com/maru33luc/NodeJS---FKStore-">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maru33luc&repo=NodeJS---FKStore-&theme=tokyonight" />
+</a>
+
 <a href="https://github.com/maru33luc/Proyecto12Django">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maru33luc&repo=Proyecto12Django&theme=tokyonight" />
 </a>
+
 <a href="https://github.com/maru33luc/TP-Final-Lab3">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maru33luc&repo=TP-Final-Lab3&theme=tokyonight" />
 </a>
