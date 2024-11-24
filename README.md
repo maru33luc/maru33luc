@@ -40,7 +40,6 @@
 <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
 <a href="#"><img alt="JavaFx" src="https://img.shields.io/badge/JavaFX-5382A1.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white"></a>
-<a href="#"><img alt="Spring" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"></a> 
 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>   
 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white"></a>  
