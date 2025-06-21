@@ -4,7 +4,7 @@
 </p>
 
 
-#### Full Stack Web Developer | University Technician in Programming Graduate | Enthusiast of DS, AI, and ML
+#### Full Stack Web Developer | Associate Degree in Programming | Enthusiast of DS, AI, and ML
 
 * _Proactivity and Teamwork_ 👨‍👩‍👧‍👦
 * _Troubleshooting_ 🧐
